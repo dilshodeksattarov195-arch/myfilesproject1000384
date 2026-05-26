@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuender",
+        "uuid": 2401536,
+        "checksum": "blq3bn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
